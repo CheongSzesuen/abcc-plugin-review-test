@@ -1,0 +1,12 @@
+{
+  "name": "ABCC 审核测试插件",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "description": "用于验证 CreatorConsole 插件审核页面的演示插件，不会实际运行。",
+  "author": "CheongSzesuen",
+  "website": "https://github.com/CheongSzesuen/abcc-plugin-review-test",
+  "entry": "plugin.wasm",
+  "wasi_version": 2,
+  "api_level": 2,
+  "permissions": []
+}
