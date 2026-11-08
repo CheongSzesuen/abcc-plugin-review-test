@@ -1,8 +1,8 @@
 {
-  "name": "ABCC 审核测试插件",
+  "name": "ABCC 审核测试插件 Alt",
   "icon": "icon.png",
-  "version": "1.0.0",
-  "description": "用于验证 CreatorConsole 插件审核页面的演示插件，不会实际运行。",
+  "version": "1.1.0",
+  "description": "用于验证 CreatorConsole 多行 index.txt 审核的演示插件（alt 分支），不会实际运行。",
   "author": "CheongSzesuen",
   "website": "https://github.com/CheongSzesuen/abcc-plugin-review-test",
   "entry": "plugin.wasm",
